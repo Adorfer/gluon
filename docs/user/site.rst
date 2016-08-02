@@ -331,15 +331,19 @@ site-repos in the wild
 
 This is a non-exhaustive list of site-repos from various communities:
 
+* `site-ffal <https://github.com/freifunk-mk/ff-sites/blob/master/ffal/site.conf>`_ (Altena)
 * `site-ffbs <https://github.com/ffbs/site-ffbs>`_ (Braunschweig)
 * `site-ffhb <https://github.com/FreifunkBremen/gluon-site-ffhb>`_ (Bremen)
 * `site-ffda <https://github.com/freifunk-darmstadt/site-ffda>`_ (Darmstadt)
+* `site-ffdus <https://github.com/eulenfunk/firmware/blob/master/templates/dusl2tp/site.conf>`_ (Düsseldorf-Flingern)
 * `site-ffgoe <https://github.com/freifunk-goettingen/site-ffgoe>`_ (Göttingen)
 * `site-ffhh <https://github.com/freifunkhamburg/site-ffhh>`_ (Hamburg)
 * `site-ffhgw <https://github.com/lorenzo-greifswald/site-ffhgw>`_ (Greifswald)
+* `site-fflln <https://github.com/plumpudding/ffgl-firmware/blob/master/sites/lln/site.conf>`_ (Leichlingen)
 * `site-ffhl <https://github.com/freifunk-luebeck/site-ffhl>`_ (Lübeck)
 * `site-ffmd <https://github.com/FreifunkMD/site-ffmd>`_ (Magdeburg)
 * `site-ffmwu <https://github.com/freifunk-mwu/site-ffmwu>`_ (Mainz, Wiesbaden & Umgebung)
+* `site-ffnef <https://github.com/Neanderfunk/site-ffnef/blob/master/ffnef-met/site.conf>`_ (Mettmann)
 * `site-ffmyk <https://github.com/FreifunkMYK/site-ffmyk>`_ (Mayen-Koblenz)
 * `site-ffm <https://github.com/freifunkMUC/site-ffm>`_ (München)
 * `site-ffms <https://github.com/FreiFunkMuenster/site-ffms>`_ (Münster)
